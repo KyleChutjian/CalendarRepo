@@ -1,3 +1,4 @@
+package calendar;
 
 public class ScheduleEvent {
 	

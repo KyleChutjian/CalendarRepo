@@ -1,3 +1,4 @@
+package calendar;
 
 import java.util.*;
 import java.io.*;
@@ -27,7 +28,7 @@ public class Appointments {
 	}
 
 	/**
-	 * This method uses user input to create a new appoinment, and add it to the calendar.
+	 * This method uses user input to create a new appointment, and add it to the calendar.
 	 *
 	 */ 
 	public void insert() {
